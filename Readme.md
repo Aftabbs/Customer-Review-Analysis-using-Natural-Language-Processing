@@ -1,7 +1,7 @@
 # Customer Review Analysis using Natural Language Processing (NLP)
 
-![Project Image](project_image.png) 
- ![Alt text](image.png)
+![image](https://github.com/Aftabbs/Customer-Review-Analysis-using-Natural-Language-Processing/assets/112916888/d957fb4b-c863-4f22-b23a-adf17f87a316)
+
 
 ## Overview
 This repository contains a data analysis project provided by Clootrack.inc for Data Analyst Intern role that leverages Natural Language Processing (NLP) techniques to gain insights from customer reviews. The project focuses on understanding customer sentiments, identifying key themes, and improving products or services based on feedback.
